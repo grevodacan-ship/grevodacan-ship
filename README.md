@@ -1,6 +1,6 @@
 👨‍💻 Luca Müller 🇨🇭
 
-📍 Zurich, Switzerland 📧 luca.muller@example.com
+📍 Zurich, Switzerland 📧 luca.muller@proton.me
 
 🧠 About Me
 
