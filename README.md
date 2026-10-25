@@ -1,16 +1,22 @@
-## Hi there 👋
+LUCA MÜLLER
+SCIENCE × TECHNOLOGY × LOGIC
+ORIGIN — Switzerland 🇨🇭
+FIELD — Mathematics / Computer Science / Physics
+MINDSET — Analytical • Creative • Precise
 
-<!--
-**grevodacan-ship/grevodacan-ship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+01 / PROFILE
+A curious mind driven by logic, scientific discovery, and technological innovation. Passionate about solving complex problems through mathematics, physics, and computing.
 
-Here are some ideas to get you started:
+02 / CORE SKILLS
+MATHEMATICS — Logical reasoning & problem-solving
+COMPUTER SCIENCE — Programming & computational thinking
+PHYSICS — Scientific analysis & theoretical concepts
+03 / LANGUAGES
+German — Native
+English — Advanced
+French — Intermediate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+04 / PERSONAL MOTTO
+“Understand the rules. Discover the exceptions. Create the future.”
+
+SWISS PRECISION. SCIENTIFIC THINKING. FUTURE-FOCUSED.
